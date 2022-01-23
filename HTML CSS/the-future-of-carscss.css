@@ -1,0 +1,81 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;1,100&display=swap" rel="stylesheet">
+
+body{
+    margin: 0;
+    font-family: Text font: &#39;Lato&#39; sans-serif;
+    font-size:14px;
+}
+
+.headar{
+ background: url(car-future.jpg);
+ height: 800px;  
+ background-size:cover;s
+}
+
+nav,ul,li {
+display: inline-block;
+padding: 15px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;`
+}
+nav ul li a:hover{
+    color: chocolate;
+}
+
+nav{
+    float: right;
+}
+.header h1{
+    margin: 0;
+}
+.headar h1{ 
+     padding-top: 100px;
+    padding-left: 62px;
+    font-size: 55px;
+    color: chocolate;
+    text-transform: uppercase
+  }
+  article {
+      padding: 50px;
+  }
+  article h2{
+      text-transform: uppercase;
+      color: brown;
+  }
+  
+  .content article img{
+    width: 37%;
+    float: left;
+    padding: 10px;
+    }
+ 
+  .content article{
+      height: 400px;
+  }
+  .content article p::first-letter{
+      text-transform: uppercase;
+      color: brown;
+      font-size: 40px;
+  }
+  .content article p{
+     text-align:justify;
+    font-size: 20px;
+      }
+      footer{
+          background-color: grey;
+          text-align: center;
+         text-decoration-style: double;
+      }
+     
+      
+
+
+    
+
+  
